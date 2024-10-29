@@ -23,7 +23,7 @@ A simplified frontend clone of Twitter built with Tailwind CSS. This project foc
 ![Laptop Screenshot](https://github.com/user-attachments/assets/a040d922-bde5-403f-a11e-4a1f912d67a3)
 
 ### Phone
-![Phone Screenshot](https://github.com/user-attachments/assets/836d611d-741f-4583-842d-3ff81bddc5b3)
+![Phone Screenshot](https://github.com/user-attachments/assets/0ac3af72-056d-4af3-bf3b-232ff6d947bb)
 
 ## 📚 Usage
 
