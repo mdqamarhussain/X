@@ -1,6 +1,6 @@
 # X UI Clone
 
-A simplified frontend clone of Twitter built with Tailwind CSS. This project focuses on replicating the look and feel of X's user interface, using Tailwind CSS for efficient styling and responsive design. The backend is not implemented in this version, making it ideal for frontend practice.
+A simplified frontend clone of X built with Tailwind CSS. This project focuses on replicating the look and feel of X's user interface, using Tailwind CSS for efficient styling and responsive design. The backend is not implemented in this version, making it ideal for frontend practice.
 
 ## 🚀 Features
 
