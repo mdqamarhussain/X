@@ -20,10 +20,10 @@ A simplified frontend clone of Twitter built with Tailwind CSS. This project foc
 ## 📸 Screenshots
 
 ### Laptop
-![Home Page Screenshot](./screenshots/home.png)
+![Laptop Screenshot](https://github.com/user-attachments/assets/a040d922-bde5-403f-a11e-4a1f912d67a3)
 
 ### Phone
-![Profile Page Screenshot](./screenshots/profile.png)
+![Phone Screenshot](https://github.com/user-attachments/assets/836d611d-741f-4583-842d-3ff81bddc5b3)
 
 ## 📚 Usage
 
